@@ -18,7 +18,7 @@ within the RavenOS ecosystem, focusing on reliability, simplicity, and a gothic
 thematic identity.
 
 References:
-  RavenOS Umbra .......... core architecture and libraries
-  ESP-NOW ................ wireless protocol for command transmission
-  SSD1306 ................ display driver for telemetry
-  Wraith UGV ............. current working name of the vehicle
+  - RavenOS Umbra .......... core architecture and libraries
+  - ESP-NOW ................ wireless protocol for command transmission
+  - SSD1306 ................ display driver for telemetry
+  - Wraith UGV ............. current working name of the vehicle
