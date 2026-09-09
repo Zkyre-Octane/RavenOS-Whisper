@@ -1,4 +1,4 @@
-$ RavenOS-Whisper
+# RavenOS-Whisper
 
 RavenOS Whisper is a minimal controller-oriented variant of RavenOS Umbra.
 This build extracts core functions, libraries, and hardware abstractions from Umbra
