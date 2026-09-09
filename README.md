@@ -4,8 +4,8 @@
 
 # RavenOS-Whisper
 
-RavenOS Whisper is a minimal controller-oriented variant of RavenOS Umbra.
-This build extracts core functions, libraries, and hardware abstractions from Umbra
+RavenOS Whisper is a minimal controller-oriented variant of RavenOS.
+This build extracts core functions, libraries, and hardware abstractions from RavenOS Umbra
 and adapts them for an ESP-NOW based transmission system.
 
 Whisper retains the original SSD1306 graphics driver but removes menus, buttons,
