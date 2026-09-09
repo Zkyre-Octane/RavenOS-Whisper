@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Zkyre-Octane/RavenOS-Whisper/blob/main/assets/Logo/RavenOS_WHISPER_logo.png">
+</p>
+
 # RavenOS-Whisper
 
 RavenOS Whisper is a minimal controller-oriented variant of RavenOS Umbra.
