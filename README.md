@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Zkyre-Octane/RavenOS-Whisper/blob/main/assets/Logo/RavenOS_WHISPER_logo.png">
+  <img src="https://github.com/Zkyre-Octane/RavenOS-Whisper/blob/main/assets/Logo/RavenOS-WHISPER_Logo.png">
 </p>
 
 # RavenOS-Whisper
